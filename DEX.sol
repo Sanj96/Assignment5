@@ -2,7 +2,7 @@
 
 pragma solidity ^0.6.10;
 
-import "https://github.com/Sanj96/Assignment5/blob/main/SafeYorkERC20Token.sol";
+import "./SafeYorkERC20Token.sol";
 
 contract DEX {
 
